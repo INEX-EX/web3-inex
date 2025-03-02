@@ -1,22 +1,4 @@
-# web3.py
-
-[![Join the conversation on Discord](https://img.shields.io/discord/809793915578089484?color=blue&label=chat&logo=discord&logoColor=white)](https://discord.gg/GHryRvPB84)
-[![Build Status](https://circleci.com/gh/ethereum/web3.py.svg?style=shield)](https://circleci.com/gh/ethereum/web3.py)
-[![PyPI version](https://badge.fury.io/py/web3.svg)](https://badge.fury.io/py/web3)
-[![Python versions](https://img.shields.io/pypi/pyversions/web3.svg)](https://pypi.python.org/pypi/web3)
-[![Docs build](https://readthedocs.org/projects/web3py/badge/?version=latest)](https://web3py.readthedocs.io/en/latest/?badge=latest)
-
-## A Python Library for Interacting with Ethereum
-
-web3.py allows you to interact with the Ethereum blockchain using Python, enabling you to build decentralized applications, interact with smart contracts, and much more.
-
-- Python 3.8+ support
-
-## Installation
-
-```sh
-python -m pip install web3
-```
+# web3-inex
 
 ## Documentation
 
