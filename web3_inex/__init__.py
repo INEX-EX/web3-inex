@@ -1,4 +1,4 @@
-import web3_inex.node
+from web3_inex.node import *
 
 from web3_inex.main import (
     AsyncWeb3,
