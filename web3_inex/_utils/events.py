@@ -60,7 +60,7 @@ from eth_utils.toolz import (
     valfilter,
 )
 
-import web3
+import web3_inex
 from web3_inex._utils.abi import (
     exclude_indexed_event_inputs,
     get_indexed_event_inputs,
