@@ -1,9 +1,4 @@
-from eth_account import Account  # noqa: E402
-
-from importlib.metadata import version
-
-__version__ = version("web3")
-
+import web3_inex.node
 
 from web3_inex.main import (
     AsyncWeb3,
@@ -36,7 +31,13 @@ from web3_inex.providers.legacy_websocket import (  # noqa: E402
     LegacyWebSocketProvider,
 )
 
-import web3_inex.node
+from eth_account import Account  # noqa: E402
+
+from importlib.metadata import version
+
+__version__ = version("web3_inex")
+
+
 
 __all__ = [
     "__version__",
