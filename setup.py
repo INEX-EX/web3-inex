@@ -15,6 +15,7 @@ extras_require = {
         "build>=0.9.0",
         "bump_my_version>=0.19.0",
         "ipython",
+        "eth_account",
         "setuptools>=38.6.0",
         "tqdm>4.32",
         "twine>=1.13",
